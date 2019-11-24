@@ -1,0 +1,5 @@
+"name": "Bill Mahor", "age": 24, "birthday": 31.10.1999, "gender":"M"
+"name": "Craig Cameron", "age": 19, "birthday": 18.05.1992, "gender":"M"
+"name": "Susan Dother", "age": 54, "birthday": 11.12.1985, "gender":"F"
+"name": "Ryan Stevans", "age": 14, "birthday": 04.02.1994, "gender":"N/A"
+"name": "Bill Davidson", "age": 67, "birthday": 15.06.1990, "gender":"M"

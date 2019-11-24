@@ -32,14 +32,14 @@ def Method1():
 
 # Method 2 just aggregates web data/sources
 def Method2():
-    #WebScrapper(keywords=["research related inquiries//"])
+    WebScrapper(keywords=["Smart Grid"])
     print("")
 
 def main():
     print("testing first method")
-    Method1()
+    #Method1()
     print("testing second method")
-
+    Method2()
 
 if __name__ == '__main__':
     main()
